@@ -20,7 +20,7 @@ public class AddSkillButton : MonoBehaviour {
 		skillList.Add ("整頓");
 		skillList.Add ("彫金");
 		skillList.Add ("木工");
-		skillList.Add ("甲冑");
+		skillList.Add ("鍛治");
 		skillList.Add ("採掘");
 		skillList.Add ("精製");
 		skillList.Add ("水泳");
